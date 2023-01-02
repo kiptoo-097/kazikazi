@@ -55,7 +55,7 @@ $(document).ready(function () {
             document.getElementById("demo2").innerHTML =
                 "Pay Ksh " + newCost ;
             document.getElementById("demo1").innerHTML =
-                " M-pesa No 0743 350 280      -     Felix"
+                " M-pesa Paybill 303030       -     ACCOUNT 2045101560"
             document.getElementById("demo5").innerHTML =
                 "Get a Job for Ksh " + newCost +" ONLY!";
             document.getElementById("demo6").innerHTML =
